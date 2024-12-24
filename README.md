@@ -20,4 +20,4 @@ Running the Frontend:
 Clone the repository.
 Install dependencies: npm install
 Start the development server: npm start
-The frontend will run onhttps://otp-verification-yousha.vercel.app/ by default.
+The frontend will run on https://otp-verification-yousha.vercel.app/ 
